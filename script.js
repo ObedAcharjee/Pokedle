@@ -82,6 +82,7 @@ function checkGuess(guessName) {
   const row = document.createElement("tr");
   row.innerHTML = `
     <td>${guess.name}</td>
+    <td><img src="${guess.image}" alt="${guess.name}" width="50"></td>
     <td class="${alphabetMatch ? "correct" : "wrong"}">${alphabetMatch ? "✅" : "❌"}</td>
     <td>${typeDisplay}</td>
     <td class="${genMatch ? "correct" : "wrong"}">${genMatch ? "✅" : "❌"}</td>
@@ -108,3 +109,4 @@ input.addEventListener("keypress", e => {
     document.getElementById("guessBtn").click();
   }
 });
+
