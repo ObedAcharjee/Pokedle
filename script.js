@@ -80,16 +80,17 @@ function checkGuess(guessName) {
 
   // Add row to table
   const row = document.createElement("tr");
-  row.innerHTML = `
-    <td>${guess.name}</td>
-    <td><img src="${guess.image}" alt="${guess.name}" width="50" height="50"></td>
-    <td class="${alphabetMatch ? "correct" : "wrong"}">${alphabetMatch ? "✅" : "❌"}</td>
-    <td>${typeDisplay}</td>
-    <td class="${genMatch ? "correct" : "wrong"}">${genMatch ? "✅" : "❌"}</td>
-    <td class="${evolutionMatch ? "correct" : "wrong"}">${evolutionMatch ? "✅" : "❌"}</td>
-  `;
-  resultsTable.appendChild(row);
-
+row.innerHTML = `
+  <td>
+    ${guess.name}
+    <img src="${guess.image}" alt="${guess.name}" width="50" height="50" style="margin-left: 8px; vertical-align: middle;">
+  </td>
+  <td class="${alphabetMatch ? "correct" : "wrong"}">${alphabetMatch ? "✅" : "❌"}</td>
+  <td>${typeDisplay}</td>
+  <td class="${genMatch ? "correct" : "wrong"}">${genMatch ? "✅" : "❌"}</td>
+  <td class="${evolutionMatch ? "correct" : "wrong"}">${evolutionMatch ? "✅" : "❌"}</td>
+`;
+resultsTable.appendChild(row);
   if (guess.name.toLowerCase() === targetPokemon.name.toLowerCase()) {
     alert(`🎉 You guessed it! The Pokémon was ${targetPokemon.name}`);
   }
@@ -109,5 +110,6 @@ input.addEventListener("keypress", e => {
     document.getElementById("guessBtn").click();
   }
 });
+
 
 
