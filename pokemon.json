@@ -1,386 +1,3658 @@
-[{"name": "Bulbasaur", "generation": 1, "type": ["Grass", "Poison"], "evolution": "2 Evolution"},
-{"name": "Ivysaur", "generation": 1, "type": ["Grass", "Poison"], "evolution": "1 Evolution"},
-{"name": "Venusaur", "generation": 1, "type": ["Grass", "Poison"], "evolution": "No Evolution"},
-{"name": "Charmander", "generation": 1, "type": ["Fire"], "evolution": "2 Evolution"},
-{"name": "Charmeleon", "generation": 1, "type": ["Fire"], "evolution": "1 Evolution"},
-{"name": "Charizard", "generation": 1, "type": ["Fire", "Flying"], "evolution": "No Evolution"},
-{"name": "Squirtle", "generation": 1, "type": ["Water"], "evolution": "2 Evolution"},
-{"name": "Wartortle", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Blastoise", "generation": 1, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Caterpie", "generation": 1, "type": ["Bug"], "evolution": "2 Evolution"},
-{"name": "Metapod", "generation": 1, "type": ["Bug"], "evolution": "1 Evolution"},
-{"name": "Butterfree", "generation": 1, "type": ["Bug", "Flying"], "evolution": "No Evolution"},
-{"name": "Weedle", "generation": 1, "type": ["Bug", "Poison"], "evolution": "2 Evolution"},
-{"name": "Kakuna", "generation": 1, "type": ["Bug", "Poison"], "evolution": "1 Evolution"},
-{"name": "Beedrill", "generation": 1, "type": ["Bug", "Poison"], "evolution": "No Evolution"},
-{"name": "Pidgey", "generation": 1, "type": ["Normal", "Flying"], "evolution": "2 Evolution"},
-{"name": "Pidgeotto", "generation": 1, "type": ["Normal", "Flying"], "evolution": "1 Evolution"},
-{"name": "Pidgeot", "generation": 1, "type": ["Normal", "Flying"], "evolution": "No Evolution"},
-{"name": "Rattata", "generation": 1, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Raticate", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Spearow", "generation": 1, "type": ["Normal", "Flying"], "evolution": "1 Evolution"},
-{"name": "Fearow", "generation": 1, "type": ["Normal", "Flying"], "evolution": "No Evolution"},
-{"name": "Ekans", "generation": 1, "type": ["Poison"], "evolution": "1 Evolution"},
-{"name": "Arbok", "generation": 1, "type": ["Poison"], "evolution": "No Evolution"},
-{"name": "Pikachu", "generation": 1, "type": ["Electric"], "evolution": "1 Evolution"},
-{"name": "Raichu", "generation": 1, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Sandshrew", "generation": 1, "type": ["Ground"], "evolution": "1 Evolution"},
-{"name": "Sandslash", "generation": 1, "type": ["Ground"], "evolution": "No Evolution"},
-{"name": "Nidoran♀", "generation": 1, "type": ["Poison"], "evolution": "2 Evolution"},
-{"name": "Nidorina", "generation": 1, "type": ["Poison"], "evolution": "1 Evolution"},
-{"name": "Nidoqueen", "generation": 1, "type": ["Poison", "Ground"], "evolution": "No Evolution"},
-{"name": "Nidoran♂", "generation": 1, "type": ["Poison"], "evolution": "2 Evolution"},
-{"name": "Nidorino", "generation": 1, "type": ["Poison"], "evolution": "1 Evolution"},
-{"name": "Nidoking", "generation": 1, "type": ["Poison", "Ground"], "evolution": "No Evolution"},
-{"name": "Clefairy", "generation": 1, "type": ["Fairy"], "evolution": "1 Evolution"},
-{"name": "Clefable", "generation": 1, "type": ["Fairy"], "evolution": "No Evolution"},
-{"name": "Vulpix", "generation": 1, "type": ["Fire"], "evolution": "1 Evolution"},
-{"name": "Ninetales", "generation": 1, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Jigglypuff", "generation": 1, "type": ["Normal", "Fairy"], "evolution": "1 Evolution"},
-{"name": "Wigglytuff", "generation": 1, "type": ["Normal", "Fairy"], "evolution": "No Evolution"},
-{"name": "Zubat", "generation": 1, "type": ["Poison", "Flying"], "evolution": "2 Evolution"},
-{"name": "Golbat", "generation": 1, "type": ["Poison", "Flying"], "evolution": "1 Evolution"},
-{"name": "Oddish", "generation": 1, "type": ["Grass", "Poison"], "evolution": "2 Evolution"},
-{"name": "Gloom", "generation": 1, "type": ["Grass", "Poison"], "evolution": "1 Evolution"},
-{"name": "Vileplume", "generation": 1, "type": ["Grass", "Poison"], "evolution": "No Evolution"},
-{"name": "Paras", "generation": 1, "type": ["Bug", "Grass"], "evolution": "2 Evolution"},
-{"name": "Parasect", "generation": 1, "type": ["Bug", "Grass"], "evolution": "No Evolution"},
-{"name": "Venonat", "generation": 1, "type": ["Bug", "Poison"], "evolution": "2 Evolution"},
-{"name": "Venomoth", "generation": 1, "type": ["Bug", "Poison"], "evolution": "No Evolution"},
-{"name": "Diglett", "generation": 1, "type": ["Ground"], "evolution": "1 Evolution"},
-{"name": "Dugtrio", "generation": 1, "type": ["Ground"], "evolution": "No Evolution"},
-{"name": "Meowth", "generation": 1, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Persian", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Psyduck", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Golduck", "generation": 1, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Mankey", "generation": 1, "type": ["Fighting"], "evolution": "1 Evolution"},
-{"name": "Primeape", "generation": 1, "type": ["Fighting"], "evolution": "No Evolution"},
-{"name": "Growlithe", "generation": 1, "type": ["Fire"], "evolution": "1 Evolution"},
-{"name": "Arcanine", "generation": 1, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Poliwag", "generation": 1, "type": ["Water"], "evolution": "2 Evolution"},
-{"name": "Poliwhirl", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Poliwrath", "generation": 1, "type": ["Water", "Fighting"], "evolution": "No Evolution"},
-{"name": "Abra", "generation": 1, "type": ["Psychic"], "evolution": "2 Evolution"},
-{"name": "Kadabra", "generation": 1, "type": ["Psychic"], "evolution": "1 Evolution"},
-{"name": "Alakazam", "generation": 1, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Machop", "generation": 1, "type": ["Fighting"], "evolution": "2 Evolution"},
-{"name": "Machoke", "generation": 1, "type": ["Fighting"], "evolution": "1 Evolution"},
-{"name": "Machamp", "generation": 1, "type": ["Fighting"], "evolution": "No Evolution"},
-{"name": "Bellsprout", "generation": 1, "type": ["Grass", "Poison"], "evolution": "2 Evolution"},
-{"name": "Weepinbell", "generation": 1, "type": ["Grass", "Poison"], "evolution": "1 Evolution"},
-{"name": "Victreebel", "generation": 1, "type": ["Grass", "Poison"], "evolution": "No Evolution"},
-{"name": "Tentacool", "generation": 1, "type": ["Water", "Poison"], "evolution": "1 Evolution"},
-{"name": "Tentacruel", "generation": 1, "type": ["Water", "Poison"], "evolution": "No Evolution"},
-{"name": "Geodude", "generation": 1, "type": ["Rock", "Ground"], "evolution": "2 Evolution"},
-{"name": "Graveler", "generation": 1, "type": ["Rock", "Ground"], "evolution": "1 Evolution"},
-{"name": "Golem", "generation": 1, "type": ["Rock", "Ground"], "evolution": "No Evolution"},
-{"name": "Ponyta", "generation": 1, "type": ["Fire"], "evolution": "1 Evolution"},
-{"name": "Rapidash", "generation": 1, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Slowpoke", "generation": 1, "type": ["Water", "Psychic"], "evolution": "2 Evolution"},
-{"name": "Slowbro", "generation": 1, "type": ["Water", "Psychic"], "evolution": "No Evolution"},
-{"name": "Magnemite", "generation": 1, "type": ["Electric", "Steel"], "evolution": "1 Evolution"},
-{"name": "Magneton", "generation": 1, "type": ["Electric", "Steel"], "evolution": "No Evolution"},
-{"name": "Farfetch’d", "generation": 1, "type": ["Normal", "Flying"], "evolution": "No Evolution"},
-{"name": "Doduo", "generation": 1, "type": ["Normal", "Flying"], "evolution": "1 Evolution"},
-{"name": "Dodrio", "generation": 1, "type": ["Normal", "Flying"], "evolution": "No Evolution"},
-{"name": "Seel", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Dewgong", "generation": 1, "type": ["Water", "Ice"], "evolution": "No Evolution"},
-{"name": "Grimer", "generation": 1, "type": ["Poison"], "evolution": "1 Evolution"},
-{"name": "Muk", "generation": 1, "type": ["Poison"], "evolution": "No Evolution"},
-{"name": "Shellder", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Cloyster", "generation": 1, "type": ["Water", "Ice"], "evolution": "No Evolution"},
-{"name": "Gastly", "generation": 1, "type": ["Ghost", "Poison"], "evolution": "2 Evolution"},
-{"name": "Haunter", "generation": 1, "type": ["Ghost", "Poison"], "evolution": "1 Evolution"},
-{"name": "Gengar", "generation": 1, "type": ["Ghost", "Poison"], "evolution": "No Evolution"},
-{"name": "Onix", "generation": 1, "type": ["Rock", "Ground"], "evolution": "1 Evolution"},
-{"name": "Drowzee", "generation": 1, "type": ["Psychic"], "evolution": "1 Evolution"},
-{"name": "Hypno", "generation": 1, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Krabby", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Kingler", "generation": 1, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Voltorb", "generation": 1, "type": ["Electric"], "evolution": "1 Evolution"},
-{"name": "Electrode", "generation": 1, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Exeggcute", "generation": 1, "type": ["Grass", "Psychic"], "evolution": "1 Evolution"},
-{"name": "Exeggutor", "generation": 1, "type": ["Grass", "Psychic"], "evolution": "No Evolution"},
-{"name": "Cubone", "generation": 1, "type": ["Ground"], "evolution": "1 Evolution"},
-{"name": "Marowak", "generation": 1, "type": ["Ground"], "evolution": "No Evolution"},
-{"name": "Hitmonlee", "generation": 1, "type": ["Fighting"], "evolution": "No Evolution"},
-{"name": "Hitmonchan", "generation": 1, "type": ["Fighting"], "evolution": "No Evolution"},
-{"name": "Lickitung", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Koffing", "generation": 1, "type": ["Poison"], "evolution": "1 Evolution"},
-{"name": "Weezing", "generation": 1, "type": ["Poison"], "evolution": "No Evolution"},
-{"name": "Rhyhorn", "generation": 1, "type": ["Ground", "Rock"], "evolution": "2 Evolution"},
-{"name": "Rhydon", "generation": 1, "type": ["Ground", "Rock"], "evolution": "1 Evolution"},
-{"name": "Chansey", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Tangela", "generation": 1, "type": ["Grass"], "evolution": "No Evolution"},
-{"name": "Kangaskhan", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Horsea", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Seadra", "generation": 1, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Goldeen", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Seaking", "generation": 1, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Staryu", "generation": 1, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Starmie", "generation": 1, "type": ["Water", "Psychic"], "evolution": "No Evolution"},
-{"name": "Mr. Mime", "generation": 1, "type": ["Psychic", "Fairy"], "evolution": "No Evolution"},
-{"name": "Scyther", "generation": 1, "type": ["Bug", "Flying"], "evolution": "No Evolution"},
-{"name": "Jynx", "generation": 1, "type": ["Ice", "Psychic"], "evolution": "No Evolution"},
-{"name": "Electabuzz", "generation": 1, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Magmar", "generation": 1, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Pinsir", "generation": 1, "type": ["Bug"], "evolution": "No Evolution"},
-{"name": "Tauros", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Magikarp", "generation": 1, "type": ["Water"], "evolution": "2 Evolution"},
-{"name": "Gyarados", "generation": 1, "type": ["Water", "Flying"], "evolution": "No Evolution"},
-{"name": "Lapras", "generation": 1, "type": ["Water", "Ice"], "evolution": "No Evolution"},
-{"name": "Ditto", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Eevee", "generation": 1, "type": ["Normal"], "evolution": "Multiple Evolution"},
-{"name": "Vaporeon", "generation": 1, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Jolteon", "generation": 1, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Flareon", "generation": 1, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Porygon", "generation": 1, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Omanyte", "generation": 1, "type": ["Rock", "Water"], "evolution": "2 Evolution"},
-{"name": "Omastar", "generation": 1, "type": ["Rock", "Water"], "evolution": "No Evolution"},
-{"name": "Kabuto", "generation": 1, "type": ["Rock", "Water"], "evolution": "2 Evolution"},
-{"name": "Kabutops", "generation": 1, "type": ["Rock", "Water"], "evolution": "No Evolution"},
-{"name": "Aerodactyl", "generation": 1, "type": ["Rock", "Flying"], "evolution": "No Evolution"},
-{"name": "Snorlax", "generation": 1, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Articuno", "generation": 1, "type": ["Ice", "Flying"], "evolution": "No Evolution"},
-{"name": "Zapdos", "generation": 1, "type": ["Electric", "Flying"], "evolution": "No Evolution"},
-{"name": "Moltres", "generation": 1, "type": ["Fire", "Flying"], "evolution": "No Evolution"},
-{"name": "Dratini", "generation": 1, "type": ["Dragon"], "evolution": "2 Evolution"},
-{"name": "Dragonair", "generation": 1, "type": ["Dragon"], "evolution": "1 Evolution"},
-{"name": "Dragonite", "generation": 1, "type": ["Dragon", "Flying"], "evolution": "No Evolution"},
-{"name": "Mewtwo", "generation": 1, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Mew", "generation": 1, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Chikorita", "generation": 2, "type": ["Grass"], "evolution": "2 Evolution"},
-{"name": "Bayleef", "generation": 2, "type": ["Grass"], "evolution": "1 Evolution"},
-{"name": "Meganium", "generation": 2, "type": ["Grass"], "evolution": "No Evolution"},
-{"name": "Cyndaquil", "generation": 2, "type": ["Fire"], "evolution": "2 Evolution"},
-{"name": "Quilava", "generation": 2, "type": ["Fire"], "evolution": "1 Evolution"},
-{"name": "Typhlosion", "generation": 2, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Totodile", "generation": 2, "type": ["Water"], "evolution": "2 Evolution"},
-{"name": "Croconaw", "generation": 2, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Feraligatr", "generation": 2, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Sentret", "generation": 2, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Furret", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Hoothoot", "generation": 2, "type": ["Normal", "Flying"], "evolution": "1 Evolution"},
-{"name": "Noctowl", "generation": 2, "type": ["Normal", "Flying"], "evolution": "No Evolution"},
-{"name": "Ledyba", "generation": 2, "type": ["Bug", "Flying"], "evolution": "1 Evolution"},
-{"name": "Ledian", "generation": 2, "type": ["Bug", "Flying"], "evolution": "No Evolution"},
-{"name": "Spinarak", "generation": 2, "type": ["Bug", "Poison"], "evolution": "1 Evolution"},
-{"name": "Ariados", "generation": 2, "type": ["Bug", "Poison"], "evolution": "No Evolution"},
-{"name": "Crobat", "generation": 2, "type": ["Poison", "Flying"], "evolution": "No Evolution"},
-{"name": "Chinchou", "generation": 2, "type": ["Water", "Electric"], "evolution": "1 Evolution"},
-{"name": "Lanturn", "generation": 2, "type": ["Water", "Electric"], "evolution": "No Evolution"},
-{"name": "Pichu", "generation": 2, "type": ["Electric"], "evolution": "2 Evolution"},
-{"name": "Cleffa", "generation": 2, "type": ["Fairy"], "evolution": "2 Evolution"},
-{"name": "Igglybuff", "generation": 2, "type": ["Normal", "Fairy"], "evolution": "2 Evolution"},
-{"name": "Togepi", "generation": 2, "type": ["Fairy"], "evolution": "2 Evolution"},
-{"name": "Togetic", "generation": 2, "type": ["Fairy", "Flying"], "evolution": "1 Evolution"},
-{"name": "Natu", "generation": 2, "type": ["Psychic", "Flying"], "evolution": "1 Evolution"},
-{"name": "Xatu", "generation": 2, "type": ["Psychic", "Flying"], "evolution": "No Evolution"},
-{"name": "Mareep", "generation": 2, "type": ["Electric"], "evolution": "2 Evolution"},
-{"name": "Flaaffy", "generation": 2, "type": ["Electric"], "evolution": "1 Evolution"},
-{"name": "Ampharos", "generation": 2, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Bellossom", "generation": 2, "type": ["Grass"], "evolution": "No Evolution"},
-{"name": "Marill", "generation": 2, "type": ["Water", "Fairy"], "evolution": "1 Evolution"},
-{"name": "Azumarill", "generation": 2, "type": ["Water", "Fairy"], "evolution": "No Evolution"},
-{"name": "Sudowoodo", "generation": 2, "type": ["Rock"], "evolution": "No Evolution"},
-{"name": "Politoed", "generation": 2, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Hoppip", "generation": 2, "type": ["Grass", "Flying"], "evolution": "2 Evolution"},
-{"name": "Skiploom", "generation": 2, "type": ["Grass", "Flying"], "evolution": "1 Evolution"},
-{"name": "Jumpluff", "generation": 2, "type": ["Grass", "Flying"], "evolution": "No Evolution"},
-{"name": "Aipom", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Sunkern", "generation": 2, "type": ["Grass"], "evolution": "1 Evolution"},
-{"name": "Sunflora", "generation": 2, "type": ["Grass"], "evolution": "No Evolution"},
-{"name": "Yanma", "generation": 2, "type": ["Bug", "Flying"], "evolution": "1 Evolution"},
-{"name": "Wooper", "generation": 2, "type": ["Water", "Ground"], "evolution": "1 Evolution"},
-{"name": "Quagsire", "generation": 2, "type": ["Water", "Ground"], "evolution": "No Evolution"},
-{"name": "Espeon", "generation": 2, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Umbreon", "generation": 2, "type": ["Dark"], "evolution": "No Evolution"},
-{"name": "Murkrow", "generation": 2, "type": ["Dark", "Flying"], "evolution": "1 Evolution"},
-{"name": "Slowking", "generation": 2, "type": ["Water", "Psychic"], "evolution": "No Evolution"},
-{"name": "Misdreavous", "generation": 2, "type": ["Ghost"], "evolution": "No Evolution"},
-{"name": "Unown", "generation": 2, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Wobbuffet", "generation": 2, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Girafarig", "generation": 2, "type": ["Normal", "Psychic"], "evolution": "No Evolution"},
-{"name": "Pineco", "generation": 2, "type": ["Bug"], "evolution": "1 Evolution"},
-{"name": "Forretress", "generation": 2, "type": ["Bug", "Steel"], "evolution": "No Evolution"},
-{"name": "Dunsparce", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Gligar", "generation": 2, "type": ["Ground", "Flying"], "evolution": "1 Evolution"},
-{"name": "Steelix", "generation": 2, "type": ["Steel", "Ground"], "evolution": "No Evolution"},
-{"name": "Snubbull", "generation": 2, "type": ["Fairy"], "evolution": "1 Evolution"},
-{"name": "Granbull", "generation": 2, "type": ["Fairy"], "evolution": "No Evolution"},
-{"name": "Qwilfish", "generation": 2, "type": ["Water", "Poison"], "evolution": "No Evolution"},
-{"name": "Scizor", "generation": 2, "type": ["Bug", "Steel"], "evolution": "No Evolution"},
-{"name": "Shuckle", "generation": 2, "type": ["Bug", "Rock"], "evolution": "No Evolution"},
-{"name": "Heracross", "generation": 2, "type": ["Bug", "Fighting"], "evolution": "No Evolution"},
-{"name": "Sneasel", "generation": 2, "type": ["Dark", "Ice"], "evolution": "1 Evolution"},
-{"name": "Teddiursa", "generation": 2, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Ursaring", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Slugma", "generation": 2, "type": ["Fire"], "evolution": "1 Evolution"},
-{"name": "Magcargo", "generation": 2, "type": ["Fire", "Rock"], "evolution": "No Evolution"},
-{"name": "Swinub", "generation": 2, "type": ["Ice", "Ground"], "evolution": "1 Evolution"},
-{"name": "Piloswine", "generation": 2, "type": ["Ice", "Ground"], "evolution": "1 Evolution"},
-{"name": "Corsola", "generation": 2, "type": ["Water", "Rock"], "evolution": "No Evolution"},
-{"name": "Remoraid", "generation": 2, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Octillery", "generation": 2, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Delibird", "generation": 2, "type": ["Ice", "Flying"], "evolution": "No Evolution"},
-{"name": "Mantine", "generation": 2, "type": ["Water", "Flying"], "evolution": "No Evolution"},
-{"name": "Skarmory", "generation": 2, "type": ["Steel", "Flying"], "evolution": "No Evolution"},
-{"name": "Houndour", "generation": 2, "type": ["Dark", "Fire"], "evolution": "1 Evolution"},
-{"name": "Houndoom", "generation": 2, "type": ["Dark", "Fire"], "evolution": "No Evolution"},
-{"name": "Kingdra", "generation": 2, "type": ["Water", "Dragon"], "evolution": "No Evolution"},
-{"name": "Phanpy", "generation": 2, "type": ["Ground"], "evolution": "1 Evolution"},
-{"name": "Donphan", "generation": 2, "type": ["Ground"], "evolution": "No Evolution"},
-{"name": "Porygon2", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Stantler", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Smeargle", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Tyrogue", "generation": 2, "type": ["Fighting"], "evolution": "2 Evolution"},
-{"name": "Hitmontop", "generation": 2, "type": ["Fighting"], "evolution": "No Evolution"},
-{"name": "Smoochum", "generation": 2, "type": ["Ice", "Psychic"], "evolution": "1 Evolution"},
-{"name": "Elekid", "generation": 2, "type": ["Electric"], "evolution": "1 Evolution"},
-{"name": "Magby", "generation": 2, "type": ["Fire"], "evolution": "1 Evolution"},
-{"name": "Miltank", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Blissey", "generation": 2, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Raikou", "generation": 2, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Entei", "generation": 2, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Suicune", "generation": 2, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Larvitar", "generation": 2, "type": ["Rock", "Ground"], "evolution": "2 Evolution"},
-{"name": "Pupitar", "generation": 2, "type": ["Rock", "Ground"], "evolution": "1 Evolution"},
-{"name": "Tyranitar", "generation": 2, "type": ["Rock", "Dark"], "evolution": "No Evolution"},
-{"name": "Lugia", "generation": 2, "type": ["Psychic", "Flying"], "evolution": "No Evolution"},
-{"name": "Ho-oh", "generation": 2, "type": ["Fire", "Flying"], "evolution": "No Evolution"},
-{"name": "Celebi", "generation": 2, "type": ["Psychic", "Grass"], "evolution": "No Evolution"},
-{"name": "Treecko", "generation": 3, "type": ["Grass"], "evolution": "2 Evolution"},
-{"name": "Grovyle", "generation": 3, "type": ["Grass"], "evolution": "1 Evolution"},
-{"name": "Sceptile", "generation": 3, "type": ["Grass"], "evolution": "No Evolution"},
-{"name": "Torchic", "generation": 3, "type": ["Fire"], "evolution": "2 Evolution"},
-{"name": "Combusken", "generation": 3, "type": ["Fire", "Fighting"], "evolution": "1 Evolution"},
-{"name": "Blaziken", "generation": 3, "type": ["Fire", "Fighting"], "evolution": "No Evolution"},
-{"name": "Mudkip", "generation": 3, "type": ["Water"], "evolution": "2 Evolution"},
-{"name": "Marshtomp", "generation": 3, "type": ["Water", "Ground"], "evolution": "1 Evolution"},
-{"name": "Swampert", "generation": 3, "type": ["Water", "Ground"], "evolution": "No Evolution"},
-{"name": "Poochyena", "generation": 3, "type": ["Dark"], "evolution": "1 Evolution"},
-{"name": "Mightyena", "generation": 3, "type": ["Dark"], "evolution": "No Evolution"},
-{"name": "Zigzagoon", "generation": 3, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Linoone", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Wurmple", "generation": 3, "type": ["Bug"], "evolution": "2 Evolution"},
-{"name": "Silcoon", "generation": 3, "type": ["Bug"], "evolution": "1 Evolution"},
-{"name": "Beautifly", "generation": 3, "type": ["Bug", "Flying"], "evolution": "No Evolution"},
-{"name": "Cascoon", "generation": 3, "type": ["Bug"], "evolution": "1 Evolution"},
-{"name": "Dustox", "generation": 3, "type": ["Bug", "Poison"], "evolution": "No Evolution"},
-{"name": "Lotad", "generation": 3, "type": ["Water", "Grass"], "evolution": "2 Evolution"},
-{"name": "Lombre", "generation": 3, "type": ["Water", "Grass"], "evolution": "1 Evolution"},
-{"name": "Ludicolo", "generation": 3, "type": ["Water", "Grass"], "evolution": "No Evolution"},
-{"name": "Seedot", "generation": 3, "type": ["Grass"], "evolution": "2 Evolution"},
-{"name": "Nuzleaf", "generation": 3, "type": ["Grass", "Dark"], "evolution": "1 Evolution"},
-{"name": "Shiftry", "generation": 3, "type": ["Grass", "Dark"], "evolution": "No Evolution"},
-{"name": "Taillow", "generation": 3, "type": ["Normal", "Flying"], "evolution": "1 Evolution"},
-{"name": "Swellow", "generation": 3, "type": ["Normal", "Flying"], "evolution": "No Evolution"},
-{"name": "Wingull", "generation": 3, "type": ["Water", "Flying"], "evolution": "1 Evolution"},
-{"name": "Pelipper", "generation": 3, "type": ["Water", "Flying"], "evolution": "No Evolution"},
-{"name": "Ralts", "generation": 3, "type": ["Psychic", "Fairy"], "evolution": "2 Evolution"},
-{"name": "Kirlia", "generation": 3, "type": ["Psychic", "Fairy"], "evolution": "1 Evolution"},
-{"name": "Gardevoir", "generation": 3, "type": ["Psychic", "Fairy"], "evolution": "No Evolution"},
-{"name": "Surskit", "generation": 3, "type": ["Bug", "Water"], "evolution": "1 Evolution"},
-{"name": "Masquerain", "generation": 3, "type": ["Bug", "Flying"], "evolution": "No Evolution"},
-{"name": "Shroomish", "generation": 3, "type": ["Grass"], "evolution": "1 Evolution"},
-{"name": "Breloom", "generation": 3, "type": ["Grass", "Fighting"], "evolution": "No Evolution"},
-{"name": "Slakoth", "generation": 3, "type": ["Normal"], "evolution": "2 Evolution"},
-{"name": "Vigoroth", "generation": 3, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Slaking", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Nincada", "generation": 3, "type": ["Bug", "Ground"], "evolution": "2 Evolution"},
-{"name": "Ninjask", "generation": 3, "type": ["Bug", "Flying"], "evolution": "1 Evolution"},
-{"name": "Shedinja", "generation": 3, "type": ["Bug", "Ghost"], "evolution": "No Evolution"},
-{"name": "Whismur", "generation": 3, "type": ["Normal"], "evolution": "2 Evolution"},
-{"name": "Loudred", "generation": 3, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Exploud", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Makuhita", "generation": 3, "type": ["Fighting"], "evolution": "1 Evolution"},
-{"name": "Hariyama", "generation": 3, "type": ["Fighting"], "evolution": "No Evolution"},
-{"name": "Azurill", "generation": 3, "type": ["Normal", "Fairy"], "evolution": "1 Evolution"},
-{"name": "Nosepass", "generation": 3, "type": ["Rock"], "evolution": "No Evolution"},
-{"name": "Skitty", "generation": 3, "type": ["Normal"], "evolution": "1 Evolution"},
-{"name": "Delcatty", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Sableye", "generation": 3, "type": ["Dark", "Ghost"], "evolution": "No Evolution"},
-{"name": "Mawile", "generation": 3, "type": ["Steel", "Fairy"], "evolution": "No Evolution"},
-{"name": "Aron", "generation": 3, "type": ["Steel", "Rock"], "evolution": "2 Evolution"},
-{"name": "Lairon", "generation": 3, "type": ["Steel", "Rock"], "evolution": "1 Evolution"},
-{"name": "Aggron", "generation": 3, "type": ["Steel", "Rock"], "evolution": "No Evolution"},
-{"name": "Meditite", "generation": 3, "type": ["Fighting", "Psychic"], "evolution": "1 Evolution"},
-{"name": "Medicham", "generation": 3, "type": ["Fighting", "Psychic"], "evolution": "No Evolution"},
-{"name": "Electrike", "generation": 3, "type": ["Electric"], "evolution": "1 Evolution"},
-{"name": "Manectric", "generation": 3, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Plusle", "generation": 3, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Minun", "generation": 3, "type": ["Electric"], "evolution": "No Evolution"},
-{"name": "Volbeat", "generation": 3, "type": ["Bug"], "evolution": "No Evolution"},
-{"name": "Illumise", "generation": 3, "type": ["Bug"], "evolution": "No Evolution"},
-{"name": "Roselia", "generation": 3, "type": ["Grass", "Poison"], "evolution": "1 Evolution"},
-{"name": "Gulpin", "generation": 3, "type": ["Poison"], "evolution": "1 Evolution"},
-{"name": "Swalot", "generation": 3, "type": ["Poison"], "evolution": "No Evolution"},
-{"name": "Carvanha", "generation": 3, "type": ["Water", "Dark"], "evolution": "1 Evolution"},
-{"name": "Sharpedo", "generation": 3, "type": ["Water", "Dark"], "evolution": "No Evolution"},
-{"name": "Wailmer", "generation": 3, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Wailord", "generation": 3, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Numel", "generation": 3, "type": ["Fire", "Ground"], "evolution": "1 Evolution"},
-{"name": "Camerupt", "generation": 3, "type": ["Fire", "Ground"], "evolution": "No Evolution"},
-{"name": "Torkoal", "generation": 3, "type": ["Fire"], "evolution": "No Evolution"},
-{"name": "Spoink", "generation": 3, "type": ["Psychic"], "evolution": "1 Evolution"},
-{"name": "Grumpig", "generation": 3, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Spinda", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Trapinch", "generation": 3, "type": ["Ground"], "evolution": "2 Evolution"},
-{"name": "Vibrava", "generation": 3, "type": ["Ground", "Dragon"], "evolution": "1 Evolution"},
-{"name": "Flygon", "generation": 3, "type": ["Ground", "Dragon"], "evolution": "No Evolution"},
-{"name": "Cacnea", "generation": 3, "type": ["Grass"], "evolution": "1 Evolution"},
-{"name": "Cacturne", "generation": 3, "type": ["Grass", "Dark"], "evolution": "No Evolution"},
-{"name": "Swablu", "generation": 3, "type": ["Normal", "Flying"], "evolution": "1 Evolution"},
-{"name": "Altaria", "generation": 3, "type": ["Dragon", "Flying"], "evolution": "No Evolution"},
-{"name": "Zangoose", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Seviper", "generation": 3, "type": ["Poison"], "evolution": "No Evolution"},
-{"name": "Lunatone", "generation": 3, "type": ["Rock", "Psychic"], "evolution": "No Evolution"},
-{"name": "Solrock", "generation": 3, "type": ["Rock", "Psychic"], "evolution": "No Evolution"},
-{"name": "Barboach", "generation": 3, "type": ["Water", "Ground"], "evolution": "1 Evolution"},
-{"name": "Whiscash", "generation": 3, "type": ["Water", "Ground"], "evolution": "No Evolution"},
-{"name": "Corphish", "generation": 3, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Crawdaunt", "generation": 3, "type": ["Water", "Dark"], "evolution": "No Evolution"},
-{"name": "Baltoy", "generation": 3, "type": ["Ground", "Psychic"], "evolution": "1 Evolution"},
-{"name": "Claydol", "generation": 3, "type": ["Ground", "Psychic"], "evolution": "No Evolution"},
-{"name": "Lileep", "generation": 3, "type": ["Rock", "Grass"], "evolution": "1 Evolution"},
-{"name": "Cradily", "generation": 3, "type": ["Rock", "Grass"], "evolution": "No Evolution"},
-{"name": "Anorith", "generation": 3, "type": ["Rock", "Bug"], "evolution": "1 Evolution"},
-{"name": "Armaldo", "generation": 3, "type": ["Rock", "Bug"], "evolution": "No Evolution"},
-{"name": "Feebas", "generation": 3, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Milotic", "generation": 3, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Castform", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Kecleon", "generation": 3, "type": ["Normal"], "evolution": "No Evolution"},
-{"name": "Shuppet", "generation": 3, "type": ["Ghost"], "evolution": "1 Evolution"},
-{"name": "Banette", "generation": 3, "type": ["Ghost"], "evolution": "No Evolution"},
-{"name": "Duskull", "generation": 3, "type": ["Ghost"], "evolution": "1 Evolution"},
-{"name": "Dusclops", "generation": 3, "type": ["Ghost"], "evolution": "No Evolution"},
-{"name": "Tropius", "generation": 3, "type": ["Grass", "Flying"], "evolution": "No Evolution"},
-{"name": "Chimecho", "generation": 3, "type": ["Psychic"], "evolution": "No Evolution"},
-{"name": "Absol", "generation": 3, "type": ["Dark"], "evolution": "No Evolution"},
-{"name": "Wynaut", "generation": 3, "type": ["Psychic"], "evolution": "1 Evolution"},
-{"name": "Snorunt", "generation": 3, "type": ["Ice"], "evolution": "1 Evolution"},
-{"name": "Glalie", "generation": 3, "type": ["Ice"], "evolution": "No Evolution"},
-{"name": "Spheal", "generation": 3, "type": ["Ice", "Water"], "evolution": "2 Evolution"},
-{"name": "Sealeo", "generation": 3, "type": ["Ice", "Water"], "evolution": "1 Evolution"},
-{"name": "Walrein", "generation": 3, "type": ["Ice", "Water"], "evolution": "No Evolution"},
-{"name": "Clamperl", "generation": 3, "type": ["Water"], "evolution": "1 Evolution"},
-{"name": "Huntail", "generation": 3, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Gorebyss", "generation": 3, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Relicanth", "generation": 3, "type": ["Water", "Rock"], "evolution": "No Evolution"},
-{"name": "Luvdisc", "generation": 3, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Bagon", "generation": 3, "type": ["Dragon"], "evolution": "2 Evolution"},
-{"name": "Shelgon", "generation": 3, "type": ["Dragon"], "evolution": "1 Evolution"},
-{"name": "Salamence", "generation": 3, "type": ["Dragon", "Flying"], "evolution": "No Evolution"},
-{"name": "Beldum", "generation": 3, "type": ["Steel", "Psychic"], "evolution": "2 Evolution"},
-{"name": "Metang", "generation": 3, "type": ["Steel", "Psychic"], "evolution": "1 Evolution"},
-{"name": "Metagross", "generation": 3, "type": ["Steel", "Psychic"], "evolution": "No Evolution"},
-{"name": "Regirock", "generation": 3, "type": ["Rock"], "evolution": "No Evolution"},
-{"name": "Regice", "generation": 3, "type": ["Ice"], "evolution": "No Evolution"},
-{"name": "Registeel", "generation": 3, "type": ["Steel"], "evolution": "No Evolution"},
-{"name": "Latias", "generation": 3, "type": ["Dragon", "Psychic"], "evolution": "No Evolution"},
-{"name": "Latios", "generation": 3, "type": ["Dragon", "Psychic"], "evolution": "No Evolution"},
-{"name": "Kyogre", "generation": 3, "type": ["Water"], "evolution": "No Evolution"},
-{"name": "Groudon", "generation": 3, "type": ["Ground"], "evolution": "No Evolution"},
-{"name": "Rayquaza", "generation": 3, "type": ["Dragon", "Flying"], "evolution": "No Evolution"},
-{"name": "Jirachi", "generation": 3, "type": ["Steel", "Psychic"], "evolution": "No Evolution"},
-{"name": "Deoxys", "generation": 3, "type": ["Psychic"], "evolution": "No Evolution"}]
+[
+  {
+    "name": "Bulbasaur",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  {
+    "name": "Ivysaur",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+  },
+  {
+    "name": "Venusaur",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+  },
+  {
+    "name": "Charmander",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "name": "Charmeleon",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+  },
+  {
+    "name": "Charizard",
+    "generation": 1,
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  },
+  {
+    "name": "Squirtle",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "name": "Wartortle",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+  },
+  {
+    "name": "Blastoise",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+  },
+  {
+    "name": "Caterpie",
+    "generation": 1,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+  },
+  {
+    "name": "Metapod",
+    "generation": 1,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+  },
+  {
+    "name": "Butterfree",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+  },
+  {
+    "name": "Weedle",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+  },
+  {
+    "name": "Kakuna",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+  },
+  {
+    "name": "Beedrill",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+  },
+  {
+    "name": "Pidgey",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+  },
+  {
+    "name": "Pidgeotto",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+  },
+  {
+    "name": "Pidgeot",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+  },
+  {
+    "name": "Rattata",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+  },
+  {
+    "name": "Raticate",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+  },
+  {
+    "name": "Spearow",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
+  },
+  {
+    "name": "Fearow",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+  },
+  {
+    "name": "Ekans",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+  },
+  {
+    "name": "Arbok",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+  },
+  {
+    "name": "Pikachu",
+    "generation": 1,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  },
+  {
+    "name": "Raichu",
+    "generation": 1,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+  },
+  {
+    "name": "Sandshrew",
+    "generation": 1,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+  },
+  {
+    "name": "Sandslash",
+    "generation": 1,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+  },
+  {
+    "name": "Nidoran♀",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+  },
+  {
+    "name": "Nidorina",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+  },
+  {
+    "name": "Nidoqueen",
+    "generation": 1,
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+  },
+  {
+    "name": "Nidoran♂",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+  },
+  {
+    "name": "Nidorino",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
+  },
+  {
+    "name": "Nidoking",
+    "generation": 1,
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+  },
+  {
+    "name": "Clefairy",
+    "generation": 1,
+    "type": [
+      "Fairy"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
+  },
+  {
+    "name": "Clefable",
+    "generation": 1,
+    "type": [
+      "Fairy"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
+  },
+  {
+    "name": "Vulpix",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+  },
+  {
+    "name": "Ninetales",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+  },
+  {
+    "name": "Jigglypuff",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+  },
+  {
+    "name": "Wigglytuff",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+  },
+  {
+    "name": "Zubat",
+    "generation": 1,
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+  },
+  {
+    "name": "Golbat",
+    "generation": 1,
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+  },
+  {
+    "name": "Oddish",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+  },
+  {
+    "name": "Gloom",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+  },
+  {
+    "name": "Vileplume",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+  },
+  {
+    "name": "Paras",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+  },
+  {
+    "name": "Parasect",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+  },
+  {
+    "name": "Venonat",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+  },
+  {
+    "name": "Venomoth",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+  },
+  {
+    "name": "Diglett",
+    "generation": 1,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+  },
+  {
+    "name": "Dugtrio",
+    "generation": 1,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+  },
+  {
+    "name": "Meowth",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+  },
+  {
+    "name": "Persian",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+  },
+  {
+    "name": "Psyduck",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+  },
+  {
+    "name": "Golduck",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+  },
+  {
+    "name": "Mankey",
+    "generation": 1,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+  },
+  {
+    "name": "Primeape",
+    "generation": 1,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
+  },
+  {
+    "name": "Growlithe",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+  },
+  {
+    "name": "Arcanine",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+  },
+  {
+    "name": "Poliwag",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
+  },
+  {
+    "name": "Poliwhirl",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
+  },
+  {
+    "name": "Poliwrath",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
+  },
+  {
+    "name": "Abra",
+    "generation": 1,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
+  },
+  {
+    "name": "Kadabra",
+    "generation": 1,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+  },
+  {
+    "name": "Alakazam",
+    "generation": 1,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+  },
+  {
+    "name": "Machop",
+    "generation": 1,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+  },
+  {
+    "name": "Machoke",
+    "generation": 1,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+  },
+  {
+    "name": "Machamp",
+    "generation": 1,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+  },
+  {
+    "name": "Bellsprout",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
+  },
+  {
+    "name": "Weepinbell",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
+  },
+  {
+    "name": "Victreebel",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+  },
+  {
+    "name": "Tentacool",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
+  },
+  {
+    "name": "Tentacruel",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
+  },
+  {
+    "name": "Geodude",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+  },
+  {
+    "name": "Graveler",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
+  },
+  {
+    "name": "Golem",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+  },
+  {
+    "name": "Ponyta",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
+  },
+  {
+    "name": "Rapidash",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
+  },
+  {
+    "name": "Slowpoke",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
+  },
+  {
+    "name": "Slowbro",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
+  },
+  {
+    "name": "Magnemite",
+    "generation": 1,
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
+  },
+  {
+    "name": "Magneton",
+    "generation": 1,
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
+  },
+  {
+    "name": "Farfetch’d",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
+  },
+  {
+    "name": "Doduo",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
+  },
+  {
+    "name": "Dodrio",
+    "generation": 1,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
+  },
+  {
+    "name": "Seel",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
+  },
+  {
+    "name": "Dewgong",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
+  },
+  {
+    "name": "Grimer",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
+  },
+  {
+    "name": "Muk",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
+  },
+  {
+    "name": "Shellder",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
+  },
+  {
+    "name": "Cloyster",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png"
+  },
+  {
+    "name": "Gastly",
+    "generation": 1,
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
+  },
+  {
+    "name": "Haunter",
+    "generation": 1,
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png"
+  },
+  {
+    "name": "Gengar",
+    "generation": 1,
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+  },
+  {
+    "name": "Onix",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
+  },
+  {
+    "name": "Drowzee",
+    "generation": 1,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
+  },
+  {
+    "name": "Hypno",
+    "generation": 1,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
+  },
+  {
+    "name": "Krabby",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
+  },
+  {
+    "name": "Kingler",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"
+  },
+  {
+    "name": "Voltorb",
+    "generation": 1,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
+  },
+  {
+    "name": "Electrode",
+    "generation": 1,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png"
+  },
+  {
+    "name": "Exeggcute",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png"
+  },
+  {
+    "name": "Exeggutor",
+    "generation": 1,
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png"
+  },
+  {
+    "name": "Cubone",
+    "generation": 1,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png"
+  },
+  {
+    "name": "Marowak",
+    "generation": 1,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png"
+  },
+  {
+    "name": "Hitmonlee",
+    "generation": 1,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png"
+  },
+  {
+    "name": "Hitmonchan",
+    "generation": 1,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
+  },
+  {
+    "name": "Lickitung",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png"
+  },
+  {
+    "name": "Koffing",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
+  },
+  {
+    "name": "Weezing",
+    "generation": 1,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+  },
+  {
+    "name": "Rhyhorn",
+    "generation": 1,
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png"
+  },
+  {
+    "name": "Rhydon",
+    "generation": 1,
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png"
+  },
+  {
+    "name": "Chansey",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
+  },
+  {
+    "name": "Tangela",
+    "generation": 1,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
+  },
+  {
+    "name": "Kangaskhan",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png"
+  },
+  {
+    "name": "Horsea",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png"
+  },
+  {
+    "name": "Seadra",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png"
+  },
+  {
+    "name": "Goldeen",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png"
+  },
+  {
+    "name": "Seaking",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png"
+  },
+  {
+    "name": "Staryu",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
+  },
+  {
+    "name": "Starmie",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png"
+  },
+  {
+    "name": "Mr. Mime",
+    "generation": 1,
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
+  },
+  {
+    "name": "Scyther",
+    "generation": 1,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png"
+  },
+  {
+    "name": "Jynx",
+    "generation": 1,
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png"
+  },
+  {
+    "name": "Electabuzz",
+    "generation": 1,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
+  },
+  {
+    "name": "Magmar",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png"
+  },
+  {
+    "name": "Pinsir",
+    "generation": 1,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
+  },
+  {
+    "name": "Tauros",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png"
+  },
+  {
+    "name": "Magikarp",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png"
+  },
+  {
+    "name": "Gyarados",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
+  },
+  {
+    "name": "Lapras",
+    "generation": 1,
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
+  },
+  {
+    "name": "Ditto",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+  },
+  {
+    "name": "Eevee",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "Multiple Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+  },
+  {
+    "name": "Vaporeon",
+    "generation": 1,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
+  },
+  {
+    "name": "Jolteon",
+    "generation": 1,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
+  },
+  {
+    "name": "Flareon",
+    "generation": 1,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png"
+  },
+  {
+    "name": "Porygon",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png"
+  },
+  {
+    "name": "Omanyte",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png"
+  },
+  {
+    "name": "Omastar",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png"
+  },
+  {
+    "name": "Kabuto",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png"
+  },
+  {
+    "name": "Kabutops",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png"
+  },
+  {
+    "name": "Aerodactyl",
+    "generation": 1,
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png"
+  },
+  {
+    "name": "Snorlax",
+    "generation": 1,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
+  },
+  {
+    "name": "Articuno",
+    "generation": 1,
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
+  },
+  {
+    "name": "Zapdos",
+    "generation": 1,
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png"
+  },
+  {
+    "name": "Moltres",
+    "generation": 1,
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png"
+  },
+  {
+    "name": "Dratini",
+    "generation": 1,
+    "type": [
+      "Dragon"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png"
+  },
+  {
+    "name": "Dragonair",
+    "generation": 1,
+    "type": [
+      "Dragon"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png"
+  },
+  {
+    "name": "Dragonite",
+    "generation": 1,
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+  },
+  {
+    "name": "Mewtwo",
+    "generation": 1,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+  },
+  {
+    "name": "Mew",
+    "generation": 1,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+  },
+  {
+    "name": "Chikorita",
+    "generation": 2,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png"
+  },
+  {
+    "name": "Bayleef",
+    "generation": 2,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png"
+  },
+  {
+    "name": "Meganium",
+    "generation": 2,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png"
+  },
+  {
+    "name": "Cyndaquil",
+    "generation": 2,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png"
+  },
+  {
+    "name": "Quilava",
+    "generation": 2,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png"
+  },
+  {
+    "name": "Typhlosion",
+    "generation": 2,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png"
+  },
+  {
+    "name": "Totodile",
+    "generation": 2,
+    "type": [
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png"
+  },
+  {
+    "name": "Croconaw",
+    "generation": 2,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png"
+  },
+  {
+    "name": "Feraligatr",
+    "generation": 2,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png"
+  },
+  {
+    "name": "Sentret",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png"
+  },
+  {
+    "name": "Furret",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png"
+  },
+  {
+    "name": "Hoothoot",
+    "generation": 2,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png"
+  },
+  {
+    "name": "Noctowl",
+    "generation": 2,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png"
+  },
+  {
+    "name": "Ledyba",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png"
+  },
+  {
+    "name": "Ledian",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png"
+  },
+  {
+    "name": "Spinarak",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png"
+  },
+  {
+    "name": "Ariados",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png"
+  },
+  {
+    "name": "Crobat",
+    "generation": 2,
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png"
+  },
+  {
+    "name": "Chinchou",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Electric"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png"
+  },
+  {
+    "name": "Lanturn",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png"
+  },
+  {
+    "name": "Pichu",
+    "generation": 2,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+  },
+  {
+    "name": "Cleffa",
+    "generation": 2,
+    "type": [
+      "Fairy"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png"
+  },
+  {
+    "name": "Igglybuff",
+    "generation": 2,
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png"
+  },
+  {
+    "name": "Togepi",
+    "generation": 2,
+    "type": [
+      "Fairy"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png"
+  },
+  {
+    "name": "Togetic",
+    "generation": 2,
+    "type": [
+      "Fairy",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png"
+  },
+  {
+    "name": "Natu",
+    "generation": 2,
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png"
+  },
+  {
+    "name": "Xatu",
+    "generation": 2,
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png"
+  },
+  {
+    "name": "Mareep",
+    "generation": 2,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png"
+  },
+  {
+    "name": "Flaaffy",
+    "generation": 2,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png"
+  },
+  {
+    "name": "Ampharos",
+    "generation": 2,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png"
+  },
+  {
+    "name": "Bellossom",
+    "generation": 2,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png"
+  },
+  {
+    "name": "Marill",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Fairy"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png"
+  },
+  {
+    "name": "Azumarill",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Fairy"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png"
+  },
+  {
+    "name": "Sudowoodo",
+    "generation": 2,
+    "type": [
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png"
+  },
+  {
+    "name": "Politoed",
+    "generation": 2,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png"
+  },
+  {
+    "name": "Hoppip",
+    "generation": 2,
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png"
+  },
+  {
+    "name": "Skiploom",
+    "generation": 2,
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png"
+  },
+  {
+    "name": "Jumpluff",
+    "generation": 2,
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png"
+  },
+  {
+    "name": "Aipom",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png"
+  },
+  {
+    "name": "Sunkern",
+    "generation": 2,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png"
+  },
+  {
+    "name": "Sunflora",
+    "generation": 2,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png"
+  },
+  {
+    "name": "Yanma",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png"
+  },
+  {
+    "name": "Wooper",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png"
+  },
+  {
+    "name": "Quagsire",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png"
+  },
+  {
+    "name": "Espeon",
+    "generation": 2,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png"
+  },
+  {
+    "name": "Umbreon",
+    "generation": 2,
+    "type": [
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png"
+  },
+  {
+    "name": "Murkrow",
+    "generation": 2,
+    "type": [
+      "Dark",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png"
+  },
+  {
+    "name": "Slowking",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png"
+  },
+  {
+    "name": "Misdreavous",
+    "generation": 2,
+    "type": [
+      "Ghost"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png"
+  },
+  {
+    "name": "Unown",
+    "generation": 2,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png"
+  },
+  {
+    "name": "Wobbuffet",
+    "generation": 2,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png"
+  },
+  {
+    "name": "Girafarig",
+    "generation": 2,
+    "type": [
+      "Normal",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png"
+  },
+  {
+    "name": "Pineco",
+    "generation": 2,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png"
+  },
+  {
+    "name": "Forretress",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Steel"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png"
+  },
+  {
+    "name": "Dunsparce",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png"
+  },
+  {
+    "name": "Gligar",
+    "generation": 2,
+    "type": [
+      "Ground",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
+  },
+  {
+    "name": "Steelix",
+    "generation": 2,
+    "type": [
+      "Steel",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png"
+  },
+  {
+    "name": "Snubbull",
+    "generation": 2,
+    "type": [
+      "Fairy"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png"
+  },
+  {
+    "name": "Granbull",
+    "generation": 2,
+    "type": [
+      "Fairy"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png"
+  },
+  {
+    "name": "Qwilfish",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png"
+  },
+  {
+    "name": "Scizor",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Steel"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png"
+  },
+  {
+    "name": "Shuckle",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png"
+  },
+  {
+    "name": "Heracross",
+    "generation": 2,
+    "type": [
+      "Bug",
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png"
+  },
+  {
+    "name": "Sneasel",
+    "generation": 2,
+    "type": [
+      "Dark",
+      "Ice"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png"
+  },
+  {
+    "name": "Teddiursa",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png"
+  },
+  {
+    "name": "Ursaring",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png"
+  },
+  {
+    "name": "Slugma",
+    "generation": 2,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png"
+  },
+  {
+    "name": "Magcargo",
+    "generation": 2,
+    "type": [
+      "Fire",
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png"
+  },
+  {
+    "name": "Swinub",
+    "generation": 2,
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png"
+  },
+  {
+    "name": "Piloswine",
+    "generation": 2,
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png"
+  },
+  {
+    "name": "Corsola",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png"
+  },
+  {
+    "name": "Remoraid",
+    "generation": 2,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png"
+  },
+  {
+    "name": "Octillery",
+    "generation": 2,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png"
+  },
+  {
+    "name": "Delibird",
+    "generation": 2,
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png"
+  },
+  {
+    "name": "Mantine",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png"
+  },
+  {
+    "name": "Skarmory",
+    "generation": 2,
+    "type": [
+      "Steel",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png"
+  },
+  {
+    "name": "Houndour",
+    "generation": 2,
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png"
+  },
+  {
+    "name": "Houndoom",
+    "generation": 2,
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png"
+  },
+  {
+    "name": "Kingdra",
+    "generation": 2,
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png"
+  },
+  {
+    "name": "Phanpy",
+    "generation": 2,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png"
+  },
+  {
+    "name": "Donphan",
+    "generation": 2,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png"
+  },
+  {
+    "name": "Porygon2",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png"
+  },
+  {
+    "name": "Stantler",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png"
+  },
+  {
+    "name": "Smeargle",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png"
+  },
+  {
+    "name": "Tyrogue",
+    "generation": 2,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png"
+  },
+  {
+    "name": "Hitmontop",
+    "generation": 2,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png"
+  },
+  {
+    "name": "Smoochum",
+    "generation": 2,
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png"
+  },
+  {
+    "name": "Elekid",
+    "generation": 2,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png"
+  },
+  {
+    "name": "Magby",
+    "generation": 2,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png"
+  },
+  {
+    "name": "Miltank",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png"
+  },
+  {
+    "name": "Blissey",
+    "generation": 2,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png"
+  },
+  {
+    "name": "Raikou",
+    "generation": 2,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png"
+  },
+  {
+    "name": "Entei",
+    "generation": 2,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png"
+  },
+  {
+    "name": "Suicune",
+    "generation": 2,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png"
+  },
+  {
+    "name": "Larvitar",
+    "generation": 2,
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png"
+  },
+  {
+    "name": "Pupitar",
+    "generation": 2,
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png"
+  },
+  {
+    "name": "Tyranitar",
+    "generation": 2,
+    "type": [
+      "Rock",
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png"
+  },
+  {
+    "name": "Lugia",
+    "generation": 2,
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png"
+  },
+  {
+    "name": "Ho-oh",
+    "generation": 2,
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png"
+  },
+  {
+    "name": "Celebi",
+    "generation": 2,
+    "type": [
+      "Psychic",
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png"
+  },
+  {
+    "name": "Treecko",
+    "generation": 3,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png"
+  },
+  {
+    "name": "Grovyle",
+    "generation": 3,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png"
+  },
+  {
+    "name": "Sceptile",
+    "generation": 3,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png"
+  },
+  {
+    "name": "Torchic",
+    "generation": 3,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png"
+  },
+  {
+    "name": "Combusken",
+    "generation": 3,
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png"
+  },
+  {
+    "name": "Blaziken",
+    "generation": 3,
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png"
+  },
+  {
+    "name": "Mudkip",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png"
+  },
+  {
+    "name": "Marshtomp",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png"
+  },
+  {
+    "name": "Swampert",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png"
+  },
+  {
+    "name": "Poochyena",
+    "generation": 3,
+    "type": [
+      "Dark"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png"
+  },
+  {
+    "name": "Mightyena",
+    "generation": 3,
+    "type": [
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png"
+  },
+  {
+    "name": "Zigzagoon",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png"
+  },
+  {
+    "name": "Linoone",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png"
+  },
+  {
+    "name": "Wurmple",
+    "generation": 3,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png"
+  },
+  {
+    "name": "Silcoon",
+    "generation": 3,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png"
+  },
+  {
+    "name": "Beautifly",
+    "generation": 3,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png"
+  },
+  {
+    "name": "Cascoon",
+    "generation": 3,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png"
+  },
+  {
+    "name": "Dustox",
+    "generation": 3,
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png"
+  },
+  {
+    "name": "Lotad",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Grass"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png"
+  },
+  {
+    "name": "Lombre",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Grass"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png"
+  },
+  {
+    "name": "Ludicolo",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png"
+  },
+  {
+    "name": "Seedot",
+    "generation": 3,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png"
+  },
+  {
+    "name": "Nuzleaf",
+    "generation": 3,
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png"
+  },
+  {
+    "name": "Shiftry",
+    "generation": 3,
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png"
+  },
+  {
+    "name": "Taillow",
+    "generation": 3,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png"
+  },
+  {
+    "name": "Swellow",
+    "generation": 3,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png"
+  },
+  {
+    "name": "Wingull",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png"
+  },
+  {
+    "name": "Pelipper",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png"
+  },
+  {
+    "name": "Ralts",
+    "generation": 3,
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png"
+  },
+  {
+    "name": "Kirlia",
+    "generation": 3,
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png"
+  },
+  {
+    "name": "Gardevoir",
+    "generation": 3,
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png"
+  },
+  {
+    "name": "Surskit",
+    "generation": 3,
+    "type": [
+      "Bug",
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png"
+  },
+  {
+    "name": "Masquerain",
+    "generation": 3,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png"
+  },
+  {
+    "name": "Shroomish",
+    "generation": 3,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png"
+  },
+  {
+    "name": "Breloom",
+    "generation": 3,
+    "type": [
+      "Grass",
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png"
+  },
+  {
+    "name": "Slakoth",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png"
+  },
+  {
+    "name": "Vigoroth",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png"
+  },
+  {
+    "name": "Slaking",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png"
+  },
+  {
+    "name": "Nincada",
+    "generation": 3,
+    "type": [
+      "Bug",
+      "Ground"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png"
+  },
+  {
+    "name": "Ninjask",
+    "generation": 3,
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png"
+  },
+  {
+    "name": "Shedinja",
+    "generation": 3,
+    "type": [
+      "Bug",
+      "Ghost"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png"
+  },
+  {
+    "name": "Whismur",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png"
+  },
+  {
+    "name": "Loudred",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png"
+  },
+  {
+    "name": "Exploud",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png"
+  },
+  {
+    "name": "Makuhita",
+    "generation": 3,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png"
+  },
+  {
+    "name": "Hariyama",
+    "generation": 3,
+    "type": [
+      "Fighting"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png"
+  },
+  {
+    "name": "Azurill",
+    "generation": 3,
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png"
+  },
+  {
+    "name": "Nosepass",
+    "generation": 3,
+    "type": [
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png"
+  },
+  {
+    "name": "Skitty",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png"
+  },
+  {
+    "name": "Delcatty",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png"
+  },
+  {
+    "name": "Sableye",
+    "generation": 3,
+    "type": [
+      "Dark",
+      "Ghost"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png"
+  },
+  {
+    "name": "Mawile",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Fairy"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png"
+  },
+  {
+    "name": "Aron",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Rock"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png"
+  },
+  {
+    "name": "Lairon",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Rock"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png"
+  },
+  {
+    "name": "Aggron",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png"
+  },
+  {
+    "name": "Meditite",
+    "generation": 3,
+    "type": [
+      "Fighting",
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png"
+  },
+  {
+    "name": "Medicham",
+    "generation": 3,
+    "type": [
+      "Fighting",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png"
+  },
+  {
+    "name": "Electrike",
+    "generation": 3,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png"
+  },
+  {
+    "name": "Manectric",
+    "generation": 3,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png"
+  },
+  {
+    "name": "Plusle",
+    "generation": 3,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png"
+  },
+  {
+    "name": "Minun",
+    "generation": 3,
+    "type": [
+      "Electric"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png"
+  },
+  {
+    "name": "Volbeat",
+    "generation": 3,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png"
+  },
+  {
+    "name": "Illumise",
+    "generation": 3,
+    "type": [
+      "Bug"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png"
+  },
+  {
+    "name": "Roselia",
+    "generation": 3,
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png"
+  },
+  {
+    "name": "Gulpin",
+    "generation": 3,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png"
+  },
+  {
+    "name": "Swalot",
+    "generation": 3,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png"
+  },
+  {
+    "name": "Carvanha",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Dark"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png"
+  },
+  {
+    "name": "Sharpedo",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png"
+  },
+  {
+    "name": "Wailmer",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png"
+  },
+  {
+    "name": "Wailord",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png"
+  },
+  {
+    "name": "Numel",
+    "generation": 3,
+    "type": [
+      "Fire",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png"
+  },
+  {
+    "name": "Camerupt",
+    "generation": 3,
+    "type": [
+      "Fire",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png"
+  },
+  {
+    "name": "Torkoal",
+    "generation": 3,
+    "type": [
+      "Fire"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png"
+  },
+  {
+    "name": "Spoink",
+    "generation": 3,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png"
+  },
+  {
+    "name": "Grumpig",
+    "generation": 3,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png"
+  },
+  {
+    "name": "Spinda",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png"
+  },
+  {
+    "name": "Trapinch",
+    "generation": 3,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png"
+  },
+  {
+    "name": "Vibrava",
+    "generation": 3,
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png"
+  },
+  {
+    "name": "Flygon",
+    "generation": 3,
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png"
+  },
+  {
+    "name": "Cacnea",
+    "generation": 3,
+    "type": [
+      "Grass"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png"
+  },
+  {
+    "name": "Cacturne",
+    "generation": 3,
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png"
+  },
+  {
+    "name": "Swablu",
+    "generation": 3,
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png"
+  },
+  {
+    "name": "Altaria",
+    "generation": 3,
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png"
+  },
+  {
+    "name": "Zangoose",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png"
+  },
+  {
+    "name": "Seviper",
+    "generation": 3,
+    "type": [
+      "Poison"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png"
+  },
+  {
+    "name": "Lunatone",
+    "generation": 3,
+    "type": [
+      "Rock",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png"
+  },
+  {
+    "name": "Solrock",
+    "generation": 3,
+    "type": [
+      "Rock",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png"
+  },
+  {
+    "name": "Barboach",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png"
+  },
+  {
+    "name": "Whiscash",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png"
+  },
+  {
+    "name": "Corphish",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png"
+  },
+  {
+    "name": "Crawdaunt",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png"
+  },
+  {
+    "name": "Baltoy",
+    "generation": 3,
+    "type": [
+      "Ground",
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png"
+  },
+  {
+    "name": "Claydol",
+    "generation": 3,
+    "type": [
+      "Ground",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png"
+  },
+  {
+    "name": "Lileep",
+    "generation": 3,
+    "type": [
+      "Rock",
+      "Grass"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png"
+  },
+  {
+    "name": "Cradily",
+    "generation": 3,
+    "type": [
+      "Rock",
+      "Grass"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png"
+  },
+  {
+    "name": "Anorith",
+    "generation": 3,
+    "type": [
+      "Rock",
+      "Bug"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png"
+  },
+  {
+    "name": "Armaldo",
+    "generation": 3,
+    "type": [
+      "Rock",
+      "Bug"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png"
+  },
+  {
+    "name": "Feebas",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png"
+  },
+  {
+    "name": "Milotic",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png"
+  },
+  {
+    "name": "Castform",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png"
+  },
+  {
+    "name": "Kecleon",
+    "generation": 3,
+    "type": [
+      "Normal"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png"
+  },
+  {
+    "name": "Shuppet",
+    "generation": 3,
+    "type": [
+      "Ghost"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png"
+  },
+  {
+    "name": "Banette",
+    "generation": 3,
+    "type": [
+      "Ghost"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png"
+  },
+  {
+    "name": "Duskull",
+    "generation": 3,
+    "type": [
+      "Ghost"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png"
+  },
+  {
+    "name": "Dusclops",
+    "generation": 3,
+    "type": [
+      "Ghost"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png"
+  },
+  {
+    "name": "Tropius",
+    "generation": 3,
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png"
+  },
+  {
+    "name": "Chimecho",
+    "generation": 3,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png"
+  },
+  {
+    "name": "Absol",
+    "generation": 3,
+    "type": [
+      "Dark"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png"
+  },
+  {
+    "name": "Wynaut",
+    "generation": 3,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png"
+  },
+  {
+    "name": "Snorunt",
+    "generation": 3,
+    "type": [
+      "Ice"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png"
+  },
+  {
+    "name": "Glalie",
+    "generation": 3,
+    "type": [
+      "Ice"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png"
+  },
+  {
+    "name": "Spheal",
+    "generation": 3,
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png"
+  },
+  {
+    "name": "Sealeo",
+    "generation": 3,
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png"
+  },
+  {
+    "name": "Walrein",
+    "generation": 3,
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png"
+  },
+  {
+    "name": "Clamperl",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png"
+  },
+  {
+    "name": "Huntail",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png"
+  },
+  {
+    "name": "Gorebyss",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png"
+  },
+  {
+    "name": "Relicanth",
+    "generation": 3,
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png"
+  },
+  {
+    "name": "Luvdisc",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png"
+  },
+  {
+    "name": "Bagon",
+    "generation": 3,
+    "type": [
+      "Dragon"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png"
+  },
+  {
+    "name": "Shelgon",
+    "generation": 3,
+    "type": [
+      "Dragon"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png"
+  },
+  {
+    "name": "Salamence",
+    "generation": 3,
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png"
+  },
+  {
+    "name": "Beldum",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "evolution": "2 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png"
+  },
+  {
+    "name": "Metang",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "evolution": "1 Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png"
+  },
+  {
+    "name": "Metagross",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png"
+  },
+  {
+    "name": "Regirock",
+    "generation": 3,
+    "type": [
+      "Rock"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png"
+  },
+  {
+    "name": "Regice",
+    "generation": 3,
+    "type": [
+      "Ice"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png"
+  },
+  {
+    "name": "Registeel",
+    "generation": 3,
+    "type": [
+      "Steel"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png"
+  },
+  {
+    "name": "Latias",
+    "generation": 3,
+    "type": [
+      "Dragon",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png"
+  },
+  {
+    "name": "Latios",
+    "generation": 3,
+    "type": [
+      "Dragon",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png"
+  },
+  {
+    "name": "Kyogre",
+    "generation": 3,
+    "type": [
+      "Water"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png"
+  },
+  {
+    "name": "Groudon",
+    "generation": 3,
+    "type": [
+      "Ground"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png"
+  },
+  {
+    "name": "Rayquaza",
+    "generation": 3,
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png"
+  },
+  {
+    "name": "Jirachi",
+    "generation": 3,
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png"
+  },
+  {
+    "name": "Deoxys",
+    "generation": 3,
+    "type": [
+      "Psychic"
+    ],
+    "evolution": "No Evolution",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png"
+  }
+]
