@@ -81,9 +81,11 @@ function checkGuess(guessName) {
   // Add row to table
   const row = document.createElement("tr");
 row.innerHTML = `
-  <td>
-    ${guess.name} 
-    <img src="${guess.image}" alt="${guess.name}" width="50" height="50" style="margin-left:8px; vertical-align:middle;">
+  <td style="text-align:center;">
+    <div>
+      ${guess.name}<br>
+      <img src="${guess.image}" alt="${guess.name}" width="50" height="50" style="margin-top:4px;">
+    </div>
   </td>
   <td class="${alphabetMatch ? "correct" : "wrong"}">${alphabetMatch ? "✅" : "❌"}</td>
   <td>${typeDisplay}</td>
@@ -110,6 +112,7 @@ input.addEventListener("keypress", e => {
     document.getElementById("guessBtn").click();
   }
 });
+
 
 
 
